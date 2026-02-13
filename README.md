@@ -1,64 +1,67 @@
 # Hi, I'm Ergin 👋
 
-Senior Mobile Engineer with 10+ years of experience building scalable Android and Flutter applications.
+Backend-focused Software Engineer with 10+ years of experience building scalable, production-grade systems and API-driven applications.
 
 I specialize in:
-- Native Android (Kotlin / Java)
-- Flutter (cross-platform iOS & Android)
-- Clean Architecture (MVVM, BLoC)
-- RESTful API integration
-- Firebase & real-time systems
+- Spring Boot & Microservices
+- RESTful API design
+- PostgreSQL & data modeling
+- Transaction management
+- Distributed system patterns
 - Performance optimization
-- Scalable backend integration (Spring Boot, PostgreSQL)
+- Clean Architecture
+
+With a strong mobile engineering background (Android & Flutter), I design backend systems that integrate seamlessly with real-world applications.
 
 ---
 
 ## 🧠 What I Build
 
-- Production-grade mobile applications
-- API-driven business apps
-- Payment & subscription systems
-- Real-time apps (chat, notifications)
-- Scalable architectures ready for growth
+- Production-grade REST APIs
+- Scalable microservice architectures
+- Transaction-safe systems
+- Event-driven backend flows
+- Data-intensive business platforms
+- API-first systems ready for mobile & web clients
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Mobile**
-- Kotlin
+**Backend**
 - Java
-- Flutter
-- Dart
-
-**Backend Knowledge**
 - Spring Boot
+- Spring Security
+- JPA / Hibernate
 - PostgreSQL
+- Redis
+- Docker
+
+**Architecture**
 - REST Architecture
+- Microservices
+- Clean Architecture
+- Transaction Management
 - System Design
 
-**Tools**
-- Firebase
-- Git
-- CI/CD
-- Clean Architecture Patterns
+**Mobile (API-Driven)**
+- Kotlin / Java (Android)
+- Flutter
 
 ---
 
 ## 🚀 Engineering Philosophy
 
-I don't just build apps.
-I build systems that scale.
+I don’t just write endpoints.  
+I design systems that survive scale.
 
-Maintainable code.
-Clear architecture.
+Clear boundaries.  
+Reliable transactions.  
+Maintainable architecture.  
 Long-term thinking.
 
 ---
 
 ## 📫 Let's Connect
 
-If you're building something serious and need a senior engineer, feel free to reach out.
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=erginersoy&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+If you're building something serious and need a backend engineer who understands both system design and real client integration — let’s talk.
