@@ -59,3 +59,6 @@ Long-term thinking.
 ## 📫 Let's Connect
 
 If you're building something serious and need a senior engineer, feel free to reach out.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
