@@ -61,4 +61,4 @@ Long-term thinking.
 If you're building something serious and need a senior engineer, feel free to reach out.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=erginersoy&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=erginersoy&show_icons=true&theme=transparent&hide_border=true&count_private=true)
